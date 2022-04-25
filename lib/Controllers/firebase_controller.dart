@@ -1,0 +1,5 @@
+class FirebaseController {
+
+  addRecord(){}
+
+}
